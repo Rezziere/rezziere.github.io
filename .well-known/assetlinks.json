@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.wijeta",
+      "sha256_cert_fingerprints": ["4A:11:6A:54:34:21:F5:82:D3:AA:71:48:26:EE:FA:32:48:D8:F0:9E:BE:05:FC:11:2E:86:0F:6A:88:5B:F4:D2"]
+    }
+  }
+]
